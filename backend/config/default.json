@@ -1,0 +1,6 @@
+
+{
+"mongoURI": "mongodb://localhost:27017/realEstateApp",
+"jwtSecret": "yOuR$3cR37T0k3n#f0r-JWT"
+}
+  
